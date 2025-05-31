@@ -1,7 +1,6 @@
 import json
 import os
 from typing import Dict, List, Any
-import openai
 import PyPDF2
 from ...core.base_agent import BaseReviewerAgent
 
